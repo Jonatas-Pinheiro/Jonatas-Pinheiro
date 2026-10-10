@@ -72,9 +72,11 @@ Meus projetos representam etapas da minha evolução como desenvolvedor.
 └──────────────────────────────────────────────┘
 </pre>
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jonatas-Pinheiro&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&locale=pt-br" height="165" alt="Estatísticas do GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonatas-Pinheiro&layout=compact&langs_count=5&theme=transparent&hide_border=true&locale=pt-br" height="165" alt="Linguagens mais utilizadas">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jonatas-Pinheiro&show_icons=true&include_all_commits=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF00&hide_border=true&locale=pt-br" height="165" alt="Estatísticas do GitHub em branco">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonatas-Pinheiro&layout=compact&langs_count=5&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&border_color=FFFFFF00&hide_border=true&locale=pt-br" height="165" alt="Linguagens mais utilizadas em branco">
 </p>
 
 <pre>

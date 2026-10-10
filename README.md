@@ -40,19 +40,21 @@ Estou no início da minha jornada na área de Tecnologia da Informação (TI), a
 
 Este perfil é meu espaço para documentar minha evolução, experimentar novas ideias e compartilhar o que construo durante meu aprendizado.
 
+
 <pre>
 ┌──────────────────────────────────────────────┐
-│  02 / ESTUDANDO                              │
+│  02 / MINHA JORNADA DE APRENDIZADO            │
 └──────────────────────────────────────────────┘
 </pre>
 
-<p align="center"><strong>Atualmente estou estudando:</strong></p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,vscode&theme=dark" alt="HTML, CSS, JavaScript, Python e VS Code">
-  </a>
-</p>
+- [x] Iniciar minha jornada com HTML e CSS.
+- [x] Começar a desenvolver projetos próprios.
+- [ ] Aprofundar meus conhecimentos em JavaScript.
+- [ ] Desenvolver minha lógica de programação com Python.
+- [ ] Aprender a trabalhar com Git e GitHub.
+- [ ] Criar projetos mais completos e organizados.
+- [ ] Desenvolver boas práticas de programação.
+- [ ] 
 
 <pre>
 ┌──────────────────────────────────────────────┐

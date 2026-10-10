@@ -46,7 +46,7 @@ Este perfil é meu espaço para documentar minha evolução, experimentar novas 
 
 <div align="center">
 
-### Estudando:
+### Atualmente estou estudando as seguintes ferramentas/tecnologias:
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,vscode&theme=dark" alt="HTML, CSS, JavaScript, Python e Visual Studio Code"/>
 
@@ -60,11 +60,9 @@ Este perfil é meu espaço para documentar minha evolução, experimentar novas 
 
 Meus projetos representam etapas da minha evolução como desenvolvedor.
 
-- **ADAP** — Explorando o desenvolvimento de uma ferramenta modular de design.
-- **CHROMA** — Desenvolvendo um jogo de cartas com mecânicas próprias.
-- **ECLIPSE ISLAND** — Explorando conceitos de jogos de sobrevivência.
+- **Projeto de Gestão de Alimentação:** É um projeto que estou fazendo junto com meu professor, eu estou responsável pelo front-end enquanto ele está responsável pelo back-end. Mais informações disponíveis no repositório [projeto-de-controle-de-refeitorio](https://github.com/Jonatas-Pinheiro/projeto-de-controle-de-refeitorio)
 
-> Cada projeto é uma oportunidade de aprender, errar, corrigir e evoluir.
+- **Jogo CHROMA:** É um jogo de cartas inspirado em UNO que estou desenvolvendo, esse projeto está me ajudando a entender melhor o funcionamento do HTML, CSS e JavaScript.
 
 ```text
 ┌──────────────────────────────────────────────┐

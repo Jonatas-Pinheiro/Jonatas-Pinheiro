@@ -8,7 +8,7 @@
  ╚════╝ ╚═╝     ╚═╝╚═╝  ╚═══╝
 </pre>
 
-<h1 align="center">JÔNATAS-PINHEIRO</h1>
+<h1 align="center">JPIN | JÔNATAS-PINHEIRO</h1>
 
 <p align="center">
   <code>ESTUDANTE · DESENVOLVIMENTO · EVOLUÇÃO</code>

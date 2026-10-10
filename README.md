@@ -11,7 +11,7 @@
 <h1 align="center">JPIN | JÔNATAS-PINHEIRO</h1>
 
 <p align="center">
-  <code>ESTUDANTE · DESENVOLVIMENTO · EVOLUÇÃO</code>
+  <code>ESTUDANTE · DESENVOLVIMENTO</code>
 </p>
 
 ---

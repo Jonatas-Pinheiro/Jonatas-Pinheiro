@@ -10,7 +10,7 @@
  ╚════╝ ╚═╝     ╚═╝╚═╝  ╚═══╝
 ```
 
-# J Ô N A T A S  P I N H E I R O
+# J Ô N A T A S       P I N H E I R O
 
 `ESTUDANTE • DESENVOLVIMENTO • EVOLUÇÃO`
 

@@ -50,13 +50,13 @@ Este espaço reúne meus projetos, experimentos e aprendizados, registrando minh
 └──────────────────────────────────────────────┘
 ```
 
-<h3>**- [01] Projeto de Gestão de Alimentação**</h3>
+<h3>- [01] Projeto de Gestão de Alimentação</h3>
 
 Sistema desenvolvido em conjunto com meu professor. Sou responsável pelo front-end, enquanto ele trabalha no back-end.
 
 ↳ [Acessar repositório](https://github.com/Jonatas-Pinheiro/projeto-de-controle-de-refeitorio)
 
-<h3>**- [02] Jogo CHROMA**</h3>
+<h3>- [02] Jogo CHROMA</h3>
 
 Jogo de cartas inspirado em UNO, desenvolvido com colegas da minha turma. O projeto funciona diretamente no navegador e me ajuda a aprofundar meus conhecimentos em HTML, CSS e JavaScript.
 

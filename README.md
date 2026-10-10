@@ -72,7 +72,8 @@ Meus projetos representam etapas da minha evolução como desenvolvedor.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Jonatas-Pinheiro/Jonatas-Pinheiro/stats-output/stats.svg?hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" height="160" alt="Estatísticas do GitHub"/>
+![](https://raw.githubusercontent.com/Jonatas-Pinheiro/Jonatas-Pinheiro/stats-output/stats.svg)
+
 
 <img src="https://raw.githubusercontent.com/Jonatas-Pinheiro/Jonatas-Pinheiro/languages-output/languages.svg?layout=compact&langs_count=5&theme=transparent&hide_border=true" height="160" alt="Linguagens mais utilizadas"/>
 

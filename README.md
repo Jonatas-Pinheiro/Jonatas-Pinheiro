@@ -10,7 +10,8 @@
  ╚════╝ ╚═╝     ╚═╝╚═╝  ╚═══╝
 ```
 
-# J Ô N A T A S       P I N H E I R O
+# JÔNATAS
+# PINHEIRO
 
 `ESTUDANTE • DESENVOLVIMENTO • EVOLUÇÃO`
 

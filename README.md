@@ -1,7 +1,10 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1626,50:1e3f66,100:2e6f95&height=180&section=header&text=Jonatas%20Pinheiro&fontSize=42&fontColor=E6EBD5&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20e Estudante %20em%20c%C3%B3digo&descSize=18&descAlignY=60" alt="Cabeçalho" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1626,50:1e3f66,100:2e6f95&height=180&section=header&text=Jonatas%20Pinheiro&fontSize=42&fontColor=E6EBD5&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20e%20Estudante%20em%20c%C3%B3digo&descSize=18&descAlignY=60"
+    alt="Cabeçalho"
+  />
 </p>
 
 <p align="center">

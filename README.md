@@ -14,9 +14,7 @@
 └──────────────────────────────────────────────┘
 ```
 
-Bem-vindo(a) ao meu perfil do GitHub! Sou Jônatas Pinheiro, estudante do Ensino Médio em um curso Técnico Integrado em Desenvolvimento de Sistemas.
-
-Utilizo este espaço para compartilhar meus projetos e registrar minha evolução na área de Tecnologia da Informação.
+Bem-vindo(a) ao meu perfil do GitHub! Sou Jônatas Pinheiro, estudante do Ensino Médio em um curso Técnico Integrado em Desenvolvimento de Sistemas da escola em que estudo. Utilizo este espaço para compartilhar meus projetos e registrar minha evolução na área de Tecnologia da Informação.
 
 ```text
 ┌──────────────────────────────────────────────┐

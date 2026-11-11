@@ -39,7 +39,6 @@ Bem-vindo(a) ao meu perfil do GitHub! Sou Jônatas Pinheiro, estudante do Ensino
 ### Projeto de Gestão de Alimentação
 
 Desenvolvido em conjunto com meu professor. Sou responsável pelo desenvolvimento do front-end, enquanto ele trabalha no back-end.
-
 **Repositório:** [projeto-de-controle-de-refeitorio](https://github.com/Jonatas-Pinheiro/projeto-de-controle-de-refeitorio)
 
 ### CHROMA

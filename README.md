@@ -49,7 +49,7 @@ Desenvolvido em conjunto com meu professor. Sou responsável pelo desenvolviment
 ### Atividades de Portugol e Python:
 
 Essas são as atividades práticas que minha professora do curso técnico passou, à medida que o conteúdo foi avançando.
-**Repositório:** [atividades-logica-de-progamacao]
+**Repositório:** [atividades-logica-de-progamacao](https://github.com/Jonatas-Pinheiro/atividades-logica-de-progamacao)
 
 ```text
 ┌──────────────────────────────────────────────┐

@@ -46,9 +46,10 @@ Bem-vindo(a) ao meu perfil do GitHub! Sou Jônatas Pinheiro, estudante do Ensino
 Desenvolvido em conjunto com meu professor. Sou responsável pelo desenvolvimento do front-end, enquanto ele trabalha no back-end.
 **Repositório:** [projeto-de-controle-de-refeitorio](https://github.com/Jonatas-Pinheiro/projeto-de-controle-de-refeitorio)
 
-### CHROMA
+### Atividades de Portugol e Python:
 
-Jogo de cartas inspirado em UNO, desenvolvido com colegas da minha turma. O projeto funciona diretamente no navegador e faz parte do meu aprendizado em HTML, CSS e JavaScript.
+Essas são as atividades práticas que minha professora do curso técnico passou, à medida que o conteúdo foi avançando.
+**Repositório:** [atividades-logica-de-progamacao]
 
 ```text
 ┌──────────────────────────────────────────────┐
